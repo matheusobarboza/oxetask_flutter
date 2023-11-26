@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369621098403",
+    "project_id": "todo-list-flutter-cacff",
+    "storage_bucket": "todo-list-flutter-cacff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369621098403:android:cdaca3510dec87663ac416",
+        "android_client_info": {
+          "package_name": "com.example.oxetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHblAfFxmJsf2efaYA0MlVIbvTKU_8dEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
